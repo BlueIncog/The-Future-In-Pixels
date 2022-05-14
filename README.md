@@ -1,1 +1,2 @@
 this is the readme for my firefox theme: Space In pixels
+***Curry#2793*** is my discord, If you want to contact me you will most likely get a response on discord, ***DM me if you want to suggest something etc...***

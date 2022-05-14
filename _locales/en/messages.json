@@ -1,0 +1,17 @@
+{
+    "extensionName": {
+      "message": "Space In pixels",
+      "description": "Name of the extension."
+    },
+  
+    "extensionDescription": {
+      "message": "Some artwork",
+      "description": "Description of the extension."
+    },
+
+    "extensionAuthor": {
+        "message": "Pain",
+        "description": ""
+      }
+
+  }
